@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>de.ztronics</groupId>
-    <artifactId>spring-example</artifactId>
+    <artifactId>my-spring-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>my-spring-example</name>
-    <description>spring-example</description>
+    <description>my-spring-example</description>
     <properties>
         <java.version>17</java.version>
     </properties>
